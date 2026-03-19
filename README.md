@@ -103,8 +103,8 @@ You can click the Preview link to take a look your changes.
 <br>
 
 <p>
-<img width="465em" src="https://github-readme-stats.vercel.app/api?username=lmarkrol&show_icons=true&theme=nightowl" alt="biro's stats"/>&nbsp;
-<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmarkrol&layout=compact&theme=nightowl&show=typescript,javascript,dart,python,c++&hide=html,css,scss,javascript,php,tsql,less&langs_count=10" alt="biro's stats"/>
+<img width="465em" src="https://github-readme-stats.vercel.app/api?username=markr0v&show_icons=true&theme=nightowl" alt="biro's stats"/>&nbsp;
+<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markr0v&layout=compact&theme=nightowl&show=typescript,javascript,dart,python,c++&hide=html,css,scss,javascript,php,tsql,less&langs_count=10" alt="biro's stats"/>
 
 </p>
 
